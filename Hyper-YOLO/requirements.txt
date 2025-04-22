@@ -1,0 +1,29 @@
+# Merged requirements.txt
+
+# Core dependencies
+numpy==1.26.4
+scipy>=1.4.1
+pandas>=1.1.4
+seaborn>=0.11.0
+matplotlib==3.10.1
+opencv-python>=4.6.0
+pillow>=7.1.2
+pyyaml==6.0
+requests>=2.23.0
+
+# Deep learning frameworks
+torch==2.6.0
+torchvision==0.21.0
+ultralytics==8.3.96
+
+# Utilities
+tqdm==4.64.0
+tensorboard>=2.13.0
+scikit-learn==1.6.1
+ipywidgets==8.1.5
+natsort
+py-cpuinfo
+psutil
+shapely
+thop>=0.1.1
+pycocotools>=2.0.6
